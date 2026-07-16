@@ -29,7 +29,7 @@ I'm continuing to sharpen that foundation with an **M.S. in Software Engineering
 - 🎓 **Credentials:** B.S. Software Engineering (WGU, 2026) · ITIL 4 Foundations
 - 🎯 **Targeting:** Entry-level AI Engineer, AI Engineer Assistant, Software Engineer, or Data Engineer roles
 - 🔭 **Currently building:** an AI Engineering portfolio series — real, deployed tools wrapping LLMs into usable products
-- 🏢 **Also running:** [Teocalli Devs](https://github.com/MrMustSeeUs), a small software studio
+- 🏢 **Also building:** [Teocalli Devs](https://github.com/MrMustSeeUs), a small software studio
 - 📈 **Next up:** starting my M.S. in AI Engineering this October — building on a completed degree, not in place of one
 
 ---
