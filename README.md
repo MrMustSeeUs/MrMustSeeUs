@@ -74,7 +74,7 @@ A multi-page, fully responsive site built to WCAG 2.1 AA accessibility standards
 ---
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MrMustSeeUs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  ![GitHub](https://shields.io)
 </p>
 
 <p align="center"><em>Open to Software Engineering roles — let's connect.</em></p>
