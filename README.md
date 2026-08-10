@@ -73,8 +73,7 @@ A multi-page, fully responsive site built to WCAG 2.1 AA accessibility standards
 
 ---
 
-<p align="center">
   ![GitHub](https://shields.io)
-</p>
+
 
 <p align="center"><em>Open to Software Engineering roles — let's connect.</em></p>
