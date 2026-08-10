@@ -27,10 +27,8 @@ I hold a **B.S. in Software Engineering** (Western Governors University, July 20
 I'm continuing to sharpen that foundation with an **M.S. in Software Engineering, AI Engineering specialization**, starting October 2026 — while actively building and shipping real projects in the meantime, not waiting for a classroom to tell me to start.
 
 - 🎓 **Credentials:** B.S. Software Engineering (WGU, 2026) · ITIL 4 Foundations
-- 🎯 **Targeting:** Entry-level AI Engineer, AI Engineer Assistant, Software Engineer, or Data Engineer roles
-- 🔭 **Currently building:** an AI Engineering portfolio series — real, deployed tools wrapping LLMs into usable products
-- 🏢 **Also building:** [Teocalli Devs](https://github.com/MrMustSeeUs), a small software studio
-- 📈 **Next up:** starting my M.S. in AI Engineering this October — building on a completed degree, not in place of one
+- 🎯 **Targeting:**  Software Engineer roles
+- 🔭 **Currently building:** six deployed, production-grade systems — from zero-knowledge identity proofs to real-time collaborative code execution to differentially-private analytics. No tutorials, no templates — original architecture, end to end.
 
 ---
 
