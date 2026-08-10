@@ -1,5 +1,5 @@
 <h1 align="center">Abraham Macias</h1>
-<h3 align="center">Software Engineer · B.S. Software Engineering · ITIL 4 Foundations · Colorado</h3>
+<h3 align="center">Software Engineer · Colorado</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mrabemacias/">
