@@ -22,9 +22,9 @@
 
 ### About Me
 
-I hold a **B.S. in Software Engineering** (Western Governors University, July 2026) and an **ITIL 4 Foundations** certification. I build full-stack and AI-integrated applications end to end — API design, database modeling, authentication, and cloud deployment, not just the parts that are easy to demo.
+I hold a **B.S. in Software Engineering** from Western Governors University. I build full-stack and AI-integrated applications end to end — API design, database modeling, authentication, and cloud deployment, not just the parts that are easy to demo.
 
-I'm continuing to sharpen that foundation with an **M.S. in Software Engineering, AI Engineering specialization**, starting October 2026 — while actively building and shipping real projects in the meantime, not waiting for a classroom to tell me to start.
+I'm continuing to sharpen my skills actively building and shipping real projects.
 
 - 🎓 **Credentials:** B.S. Software Engineering (WGU, 2026) · ITIL 4 Foundations
 - 🎯 **Targeting:**  Software Engineer roles
@@ -77,4 +77,4 @@ A multi-page, fully responsive site built to WCAG 2.1 AA accessibility standards
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MrMustSeeUs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 </p>
 
-<p align="center"><em>Open to entry-level AI Engineering, Software Engineering, and Data Engineering roles — let's connect.</em></p>
+<p align="center"><em>Open to Software Engineering roles — let's connect.</em></p>
