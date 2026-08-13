@@ -70,7 +70,7 @@ I build complete, production-deployed software — from database schema to live 
 
 ## Currently Building
 
-### 🔨 Collaborative Code Sandbox — *Project 1*
+### 🔨 Collaborative Code Sandbox
 A real-time, multi-user code editor usable by anyone with zero setup — no login, no signup, no server-side execution risk.
 
 - **Real-time sync:** Yjs (CRDT) over a lightweight Node.js WebSocket relay
