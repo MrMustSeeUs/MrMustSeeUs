@@ -107,6 +107,6 @@ A real-time, multi-user code editor usable by anyone with zero setup — no logi
 
 <div align="center">
 
-*Open to full-stack, AI engineering, DevOps, and cloud infrastructure roles.*
+*Open to Front-End Engineering, Full-Stack Engineering, AI Engineering, DevOps, and Cloud roles.*
 
 </div>
