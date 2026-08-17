@@ -14,7 +14,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-1e2327?style=for-the-badge&logo=github)](https://github.com/MrMustSeeUs?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Location](https://img.shields.io/badge/Based_in-Evans,_Colorado-informational?style=for-the-badge)](#)
+[![Location](https://img.shields.io/badge/Based_in Colorado-informational?style=for-the-badge)](#)
 
 </div>
 
